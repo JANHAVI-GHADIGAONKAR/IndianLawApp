@@ -1,0 +1,243 @@
+{
+  "project_info": {
+    "project_number": "786852527094",
+    "firebase_url": "https://lawapp-28eee-default-rtdb.firebaseio.com",
+    "project_id": "lawapp-28eee",
+    "storage_bucket": "lawapp-28eee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786852527094:android:fba34e5b7baf5ef16ca5d7",
+        "android_client_info": {
+          "package_name": "com.example.india"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786852527094-5hspcsl12o4cgk0hj3bdqmvpm686btll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl-FnRox0LJ0tQaqaDMnvyZRVN9rxoacs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786852527094-5hspcsl12o4cgk0hj3bdqmvpm686btll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786852527094:android:2646306cf6966f346ca5d7",
+        "android_client_info": {
+          "package_name": "com.example.indialaw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786852527094-5hspcsl12o4cgk0hj3bdqmvpm686btll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl-FnRox0LJ0tQaqaDMnvyZRVN9rxoacs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786852527094-5hspcsl12o4cgk0hj3bdqmvpm686btll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786852527094:android:fe07a6038f1a78676ca5d7",
+        "android_client_info": {
+          "package_name": "com.example.indianlaw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786852527094-5hspcsl12o4cgk0hj3bdqmvpm686btll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl-FnRox0LJ0tQaqaDMnvyZRVN9rxoacs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786852527094-5hspcsl12o4cgk0hj3bdqmvpm686btll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786852527094:android:467af5f0b2d02b416ca5d7",
+        "android_client_info": {
+          "package_name": "com.example.law"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786852527094-5hspcsl12o4cgk0hj3bdqmvpm686btll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl-FnRox0LJ0tQaqaDMnvyZRVN9rxoacs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786852527094-5hspcsl12o4cgk0hj3bdqmvpm686btll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786852527094:android:0ac632b579b52b0e6ca5d7",
+        "android_client_info": {
+          "package_name": "com.example.laws"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786852527094-5hspcsl12o4cgk0hj3bdqmvpm686btll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl-FnRox0LJ0tQaqaDMnvyZRVN9rxoacs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786852527094-5hspcsl12o4cgk0hj3bdqmvpm686btll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786852527094:android:b8b32a9e2d6ddd8b6ca5d7",
+        "android_client_info": {
+          "package_name": "com.example.lawsection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786852527094-5hspcsl12o4cgk0hj3bdqmvpm686btll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl-FnRox0LJ0tQaqaDMnvyZRVN9rxoacs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786852527094-5hspcsl12o4cgk0hj3bdqmvpm686btll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786852527094:android:b38562df948cbcf46ca5d7",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786852527094-5hspcsl12o4cgk0hj3bdqmvpm686btll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl-FnRox0LJ0tQaqaDMnvyZRVN9rxoacs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786852527094-5hspcsl12o4cgk0hj3bdqmvpm686btll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786852527094:android:0fc06ce9cf50e6286ca5d7",
+        "android_client_info": {
+          "package_name": "com.example.mysp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786852527094-5hspcsl12o4cgk0hj3bdqmvpm686btll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl-FnRox0LJ0tQaqaDMnvyZRVN9rxoacs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786852527094-5hspcsl12o4cgk0hj3bdqmvpm686btll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
